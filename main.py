@@ -24,5 +24,6 @@ size = len(data)
 
 quickSort(data, 0, size - 1)
 
+
 print('Sorted Array in Ascending Order:')
 print(data)
